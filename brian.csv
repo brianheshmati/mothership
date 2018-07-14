@@ -1,0 +1,4 @@
+name,stamp,when,state,object
+Brian,2018,morning,LIKE,coffee
+Brian,2018,afternoon,NOT_LIKE,coffee
+Brian,2018,afternoon,LIKE,taco
